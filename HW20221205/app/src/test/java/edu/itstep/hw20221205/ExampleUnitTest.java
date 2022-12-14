@@ -1,4 +1,4 @@
-package edu.itstep.cw20221205a1;
+package edu.itstep.hw20221205;
 
 import org.junit.Test;
 

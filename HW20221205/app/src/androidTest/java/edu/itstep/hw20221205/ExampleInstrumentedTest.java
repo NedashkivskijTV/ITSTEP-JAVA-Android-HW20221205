@@ -1,4 +1,4 @@
-package edu.itstep.cw20221205a1;
+package edu.itstep.hw20221205;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("edu.itstep.cw20221205a1", appContext.getPackageName());
+        assertEquals("edu.itstep.hw20221205", appContext.getPackageName());
     }
 }
